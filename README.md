@@ -29,7 +29,7 @@ A LogisticRegression model was created, fit to the data, and print the model's s
 
 ## Revisit the Preprocessing: Scale the data
 
-The data going into these models was never scaled, an important step in preprocessing. Use `StandardScaler` was used to scale the training and testing sets. 
+The data going into these models was never scaled, an important step in preprocessing. `StandardScaler` was used to scale the training and testing sets. 
 
 ### References
 
